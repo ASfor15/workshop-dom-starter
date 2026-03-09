@@ -1,1 +1,33 @@
 /* Your styles */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:black; 
+    margin: 20px;
+    
+}
+
+h1 { 
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+ul {
+    background-color: rgb(104, 103, 103);
+    padding: 15px 15px 15px 35px;
+    border: 1 px solid black;
+    width: 600px;
+}
+li {
+    margin-bottom: 5px;
+    color: white;
+}
+p {
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
