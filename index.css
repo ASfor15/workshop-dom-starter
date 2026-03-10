@@ -18,7 +18,7 @@ h2 {
 ul {
     background-color: rgb(104, 103, 103);
     padding: 15px 15px 15px 35px;
-    border: 1 px solid black;
+    border: 1px solid black;
     width: 600px;
 }
 li {
@@ -30,4 +30,16 @@ p {
     font-size: 20px;
     font-weight: bold;
     color: white;
+}
+
+#search-input {
+    padding: 8px;
+    width: 600px;
+    background-color: rgb(104, 103, 103);
+    color:white;
+    border: 1px solid black;
+}
+
+#search-result:empty {
+    display: none;
 }
